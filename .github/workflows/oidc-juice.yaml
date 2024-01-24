@@ -1,4 +1,4 @@
-name: AWS OIDC Connect Demo
+name: AWS OIDC For OWASP-JUICE-SHOP
 on:
   push
 env:
